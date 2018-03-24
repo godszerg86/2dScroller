@@ -27,7 +27,11 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
+<<<<<<< HEAD
   m_MinSize: {x: 950, y: 300}
+=======
+  m_MinSize: {x: 950, y: 521}
+>>>>>>> parent of 500d021... pre-playercontroller script
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -78,10 +82,14 @@ MonoBehaviour:
   m_MaxSize: {x: 14006, y: 10021}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 11
 =======
   controlID: 32
 >>>>>>> 500d02106fe2c411fea68d1d00eaa2808b1feb89
+=======
+  controlID: 11
+>>>>>>> parent of 500d021... pre-playercontroller script
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -128,14 +136,18 @@ MonoBehaviour:
     y: 0
     width: 1365
     height: 947
-  m_MinSize: {x: 436, y: 492}
-  m_MaxSize: {x: 14006, y: 14042}
+  m_MinSize: {x: 436, y: 471}
+  m_MaxSize: {x: 14006, y: 14021}
   vertical: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
   controlID: 10
 =======
   controlID: 31
 >>>>>>> 500d02106fe2c411fea68d1d00eaa2808b1feb89
+=======
+  controlID: 10
+>>>>>>> parent of 500d021... pre-playercontroller script
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -161,8 +173,12 @@ MonoBehaviour:
 =======
     width: 1920
     height: 997
+<<<<<<< HEAD
 >>>>>>> 500d02106fe2c411fea68d1d00eaa2808b1feb89
   m_MinSize: {x: 950, y: 300}
+=======
+  m_MinSize: {x: 950, y: 521}
+>>>>>>> parent of 500d021... pre-playercontroller script
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -205,14 +221,18 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 713, y: 492}
-  m_MaxSize: {x: 18008, y: 14042}
+  m_MinSize: {x: 711, y: 471}
+  m_MaxSize: {x: 18006, y: 14021}
   vertical: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   controlID: 9
 =======
   controlID: 119
 >>>>>>> 500d02106fe2c411fea68d1d00eaa2808b1feb89
+=======
+  controlID: 9
+>>>>>>> parent of 500d021... pre-playercontroller script
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,8 +271,8 @@ MonoBehaviour:
     y: 0
     width: 555
     height: 947
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -425,7 +445,8 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders: []
+    m_Folders:
+    - Assets/BayatGames/Free Platform Game Assets/Character/png/1x
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -437,10 +458,14 @@ MonoBehaviour:
     m_SelectedIDs: ee240000
     m_LastClickedID: 9454
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 0a330000243300002633000028330000aa330000b4330000b63300003e3700004237000046370000483700005a370000ec390000b23a0000
 =======
     m_ExpandedIDs: c8270000c4290000042b0000202b0000da2b0000402c00005c2c0000002d0000022d00009c2d0000422e0000bc2e000096300000
 >>>>>>> 500d02106fe2c411fea68d1d00eaa2808b1feb89
+=======
+    m_ExpandedIDs: c8270000c42900000c2a0000042b0000202b0000da2b0000402c00005c2c0000002d0000022d00009c2d0000422e0000bc2e000078300000
+>>>>>>> parent of 500d021... pre-playercontroller script
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -469,10 +494,14 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 0a330000243300002633000028330000aa330000b4330000b63300003e3700004237000046370000483700005a370000ec390000b23a0000
 =======
     m_ExpandedIDs: c8270000c4290000042b0000202b0000da2b0000402c00005c2c0000002d00009c2d0000422e0000bc2e0000963000008e350000
 >>>>>>> 500d02106fe2c411fea68d1d00eaa2808b1feb89
+=======
+    m_ExpandedIDs: c8270000c4290000042b0000202b0000da2b0000402c00005c2c0000002d0000022d00009c2d0000422e0000bc2e000078300000
+>>>>>>> parent of 500d021... pre-playercontroller script
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -644,9 +673,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -4.862006, y: 2.1973965, z: 0.53705364}
+    m_Target: {x: -3.867033, y: 2.696636, z: -0.6743167}
     speed: 2
-    m_Value: {x: -4.862006, y: 2.1973965, z: 0.53705364}
+    m_Value: {x: -3.867033, y: 2.696636, z: -0.6743167}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -674,19 +703,23 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 2.1947935
+    m_Target: 1.8737441
     speed: 2
-    m_Value: 2.1947935
+    m_Value: 1.8737441
   m_Ortho:
     m_Target: 1
     speed: 2
     m_Value: 1
   m_ShowGlobalGrid: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
 =======
   m_LastSceneViewRotation: {x: 0.071775876, y: 0.5851335, z: -0.052102715, w: 0.8060722}
 >>>>>>> 500d02106fe2c411fea68d1d00eaa2808b1feb89
+=======
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+>>>>>>> parent of 500d021... pre-playercontroller script
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -733,8 +766,8 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 92350000
-    m_LastClickedID: 0
+    m_SelectedIDs: 162f0000
+    m_LastClickedID: 12054
     m_ExpandedIDs: 9efbffff00000000162f0000
 >>>>>>> 500d02106fe2c411fea68d1d00eaa2808b1feb89
     m_RenameOverlay:
