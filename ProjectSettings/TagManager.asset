@@ -41,3 +41,30 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: sky
+    uniqueID: 3376616663
+    locked: 0
+  - name: mountains
+    uniqueID: 2775106267
+    locked: 0
+  - name: clouds
+    uniqueID: 4076673047
+    locked: 0
+  - name: hils-light
+    uniqueID: 1351334095
+    locked: 0
+  - name: hils
+    uniqueID: 2357797315
+    locked: 0
+  - name: gound
+    uniqueID: 1616162851
+    locked: 0
+  - name: player
+    uniqueID: 1011072189
+    locked: 0
+  - name: coins
+    uniqueID: 1730912183
+    locked: 0
+  - name: water
+    uniqueID: 399750307
+    locked: 0
