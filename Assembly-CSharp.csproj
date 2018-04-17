@@ -52,7 +52,11 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\camerafFollow.cs" />
+     <Compile Include="Assets\scripts\enemyMove.cs" />
+     <Compile Include="Assets\scripts\exitButton.cs" />
      <Compile Include="Assets\scripts\playerController.cs" />
+     <Compile Include="Assets\scripts\startNewGame.cs" />
+     <Compile Include="Assets\scripts\tryAgain.cs" />
      <Compile Include="Assets\zTiled2Unity\Scripts\Runtime\CircleObject.cs" />
      <Compile Include="Assets\zTiled2Unity\Scripts\Runtime\GameObjectExtensions.cs" />
      <Compile Include="Assets\zTiled2Unity\Scripts\Runtime\GPUInstancing.cs" />
