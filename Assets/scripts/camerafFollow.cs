@@ -12,6 +12,7 @@ public float yMin;
 private Transform target;
 	// Use this for initialization
 	void Start () {
+		
 		target = GameObject.Find("Character").transform;
 	}
 	

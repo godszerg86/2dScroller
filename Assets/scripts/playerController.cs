@@ -28,7 +28,6 @@ public class playerController : MonoBehaviour
     Animator chestAnim;
    public Collider2D c1;
     
-    GameObject deathScreen;
 
     // Use this for initialization
     void Start()
@@ -44,8 +43,7 @@ public class playerController : MonoBehaviour
         winText = GameObject.FindGameObjectWithTag("win");
         winText.SetActive(false);
 
-        deathScreen = GameObject.Find("death-screen");
-        deathScreen.SetActive(false);
+       
 
         
         
@@ -131,21 +129,18 @@ public class playerController : MonoBehaviour
         if (other.gameObject.CompareTag("enemy"))
         {
            
-            rb.AddForce(new Vector2(0f, 150f));
+            rb.AddForce(new Vector2(0f, 350f));
             StartCoroutine (processTask());
 
         }
-        if(other.gameObject.CompareTag("botline")){
-            deathScreen.SetActive(true);
-            Destroy(gameObject);
-        }
+   
     }
 
     IEnumerator processTask()
     {
         yield return new WaitForSeconds(0.15f);
         c1.enabled = false;
-        
+        Destroy(GetComponent<playerController>());
     }
 
 
