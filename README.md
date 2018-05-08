@@ -1,5 +1,6 @@
 # 2dScroller
 ## This a simple one level test 2D platformer with win and loose conditions.
+![screenshot](screenshot.png)
 How to run:
 1. Download content of [final build folder](https://github.com/godszerg86/2dScroller/tree/master/final_webGL_build)
 2. Run index.html in FireFox.
